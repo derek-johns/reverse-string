@@ -4,8 +4,8 @@ Write a function to reverse a string.
 
 Steps:
 1. Convert string to array.
-    => .split()
+    - .split()
 2. Reverse array
-    => .reverse()
+    - .reverse()
 3. Convert back to string.
-    => .join()
+    - .join()
